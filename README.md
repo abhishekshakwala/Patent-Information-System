@@ -8,7 +8,7 @@
 
 2. Build a Java Rest API which can take various parameters (Title, Application Number, Application Type, Assignee etc.) to fetch the live data. Refresh the Database and Return the data on request of the API.
 
-3. Build a front end application preferably on Latest Angular but you are free to choose any other framework you are comfortable with.
+3. Build a front end application using Angular 6.
 
 	a. Create a Page which will list all the patents in the Grid. Grid should support Pagination, filtering etc.
   
